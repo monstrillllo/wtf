@@ -16,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1ZvxXPm6TOkoyrZwpDKBxvlauAQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -67,29 +68,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585733566737" />
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1587907336451">
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1587909062795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587907336451" />
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1587907571562">
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587909062795" />
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1587912305754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587907571562" />
-    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1587907571562">
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587912305754" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1587912305753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587907571562" />
-    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1587907571562">
+    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587912305753" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1587912305753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587907571562" />
-    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1587907571562">
+    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587912305753" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1587912305753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587907571562" />
-    <state x="277" y="54" key="SettingsEditor" timestamp="1587907379134">
+    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587912305753" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1587909128518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587907379134" />
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587909128518" />
   </component>
 </project>

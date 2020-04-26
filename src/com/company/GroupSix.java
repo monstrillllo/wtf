@@ -8,12 +8,14 @@ public class GroupSix extends JPanel {
     int ex = 0;
     JTextField TextOne;
     JTextField TextTwo;
+    JTable TableSix;
     public GroupSix() {
 
         super(new GridLayout(0, 7));
         setBackground(Color.blue);
         TextOne = new JTextField(12);
         TextTwo = new JTextField(12);
+       // TableSix = new JTable(2,2);
         JLabel label = new JLabel("Group Six");
         JButton sixButton1 = new JButton("first");
         sixButton1.addActionListener(new buttonOne());
@@ -26,6 +28,7 @@ public class GroupSix extends JPanel {
         add(sixButton2);
         add(sixButton3);
         add(TextTwo);
+        add(TableSix);
         add(label);
 
     }
@@ -45,9 +48,7 @@ public class GroupSix extends JPanel {
         public void actionPerformed(ActionEvent actionEvent) {
             int x = Integer.parseInt(TextOne.getText());
             int y = Integer.parseInt(TextTwo.getText());
-            JTable TableSix = new JTable(x,y);
-            TableSix.
-            add(TableSix);
+            TableSix = new JTable(x,y);
         }
     }
 
