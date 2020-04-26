@@ -51,7 +51,9 @@ public class GroupSix extends JPanel {
             }else{
                 ex=0;
                 Random randValue = new Random();
-                TableSix.setValueAt("Random word"+ ex, randValue.nextInt(TableSix.getRowCount()) , randValue.nextInt(TableSix.getColumnCount()) );
+                TableSix.setValueAt("R"+ ex, randValue.nextInt(TableSix.getRowCount()) , randValue.nextInt(TableSix.getColumnCount()) );
+                TableSix.setValueAt("R"+ (ex+1), randValue.nextInt(TableSix.getRowCount()) , randValue.nextInt(TableSix.getColumnCount()) );
+                repaint();
             }
             
         }
