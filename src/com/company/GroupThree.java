@@ -23,17 +23,18 @@ public class GroupThree extends JPanel {
         RadTwo.setBackground(Color.MAGENTA);
         RadThree = new JRadioButton("maybe");
         RadThree.setBackground(Color.MAGENTA);
-
+        add(label);
         add(Field);
         add(threeButton);
         ButtonGroup radios = new ButtonGroup();
         radios.add(RadOne);
         radios.add(RadTwo);
         radios.add(RadThree);
+
         add(RadOne);
         add(RadTwo);
         add(RadThree);
-        add(label);
+
         threeButton.addActionListener(new groupThreeL());
     }
 

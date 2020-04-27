@@ -24,12 +24,13 @@ public class GroupFour extends JPanel {
         CheckTwo.setBackground(Color.ORANGE);
         CheckThr = new JCheckBox("three");
         CheckThr.setBackground(Color.ORANGE);
+        add(label);
         add(Field);
         add(fourButton);
         add(CheckOne);
         add(CheckTwo);
         add(CheckThr);
-        add(label);
+
         }
 
     class groupFourL implements ActionListener {

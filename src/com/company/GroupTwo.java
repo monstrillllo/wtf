@@ -19,10 +19,11 @@ public class GroupTwo extends JPanel {
         ButtonOne.addActionListener(new groupTwoButL());
         ButttonTwo = new JButton("swap");
         ButttonTwo.addActionListener(new groupTwoBut2L());
+        add(label);
         add(Field);
         add(ButtonOne);
         add(ButttonTwo);
-        add(label);
+
     }
 
     class groupTwoButL implements ActionListener {

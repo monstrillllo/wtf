@@ -21,12 +21,13 @@ public class GroupFive extends JPanel {
         JButton fiveButton3 = new JButton("three");
         fiveButton3.addActionListener(new buttonThree());
         table = new JTable(2, 2);
+        add(label);
         add(Text);
         add(fiveButton1);
         add(fiveButton2);
         add(fiveButton3);
         add(table);
-        add(label);
+
     }
 
     class buttonOne implements ActionListener {

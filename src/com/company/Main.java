@@ -19,7 +19,6 @@ public class Main extends JFrame {
         setVisible(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
-
     public static void main(String[] args) {
         Main fdf = new Main();
     }

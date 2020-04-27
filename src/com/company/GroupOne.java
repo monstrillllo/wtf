@@ -18,10 +18,11 @@ public class GroupOne extends JPanel {
         box = new JComboBox();
         box.setEditable(true);
         button.addActionListener(new buttonListener());
+        add(label);
         add(Field);
         add(button);
         add(box);
-        add(label);
+
     }
 
     class buttonListener implements ActionListener {
